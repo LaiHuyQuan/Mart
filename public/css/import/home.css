@@ -144,7 +144,7 @@
     border: 1px solid #da1818;
 }
 #feature-product-wp .list-item li .action .buy-now:hover, #list-product-wp .list-item li .action .buy-now:hover, #same-category-wp .list-item li .action .buy-now:hover{ background: #da1818; color: #fff;}
-#feature-product-wp .list-item li .action .add-cart:hover, #list-product-wp .list-item li .action .add-cart:hover, #same-category-wp .list-item li .action .add-cart:hover{ background: #333; color: #fff;}
+#feature-product-wp .list-item li .action .add-cart:hover, #list-product-wp .list-item li .action .add-cart:hover, #same-category-wp .list-item li .action .add-cart:hover{ background: #333; color: #fff; border-radius: 15px;}
 #list-product-wp .section-detail .list-item li{ 
     float: left; 
     width: 24.25%;
